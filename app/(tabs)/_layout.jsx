@@ -40,6 +40,14 @@ export default function TabLayout() {
           tabBarIcon: ({ color }) => <IconSymbol size={28} name="paperplane.fill" color={color} />,
         }}
       />
+      {/* Ekran dla alarmów. Używa ikony zegara i ma tytuł 'Alarms'. */}
+      <Tabs.Screen
+        name="alarms"
+        options={{
+          title: 'Alarms',
+          tabBarIcon: ({ color }) => <IconSymbol size={28} name="alarm.fill" color={color} />,
+        }}
+      />
     </Tabs>
   );
 }
