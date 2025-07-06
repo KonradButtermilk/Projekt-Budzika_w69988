@@ -1,5 +1,5 @@
-import React, { useState, useEffect, useCallback } from 'react';
-import { View, StyleSheet, FlatList, TouchableOpacity, Alert } from 'react-native';
+import React, { useState, useCallback } from 'react';
+import { StyleSheet, FlatList, TouchableOpacity, Alert } from 'react-native';
 import { useFocusEffect } from 'expo-router';
 
 import { ThemedText } from '@/components/ThemedText';
