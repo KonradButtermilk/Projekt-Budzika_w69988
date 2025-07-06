@@ -1,10 +1,9 @@
 import React, { useState, useEffect } from 'react';
-import { Modal, StyleSheet, View, TextInput, TouchableOpacity, Platform, Switch } from 'react-native';
+import { Modal, StyleSheet, View, TextInput, TouchableOpacity, Switch } from 'react-native';
 import DateTimePicker from 'react-native-modal-datetime-picker';
 
 import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
-import { IconSymbol } from '@/components/ui/IconSymbol';
 import { Colors } from '@/constants/Colors';
 import { useColorScheme } from '@/hooks/useColorScheme';
 
