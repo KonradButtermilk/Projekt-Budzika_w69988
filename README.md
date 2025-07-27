@@ -24,7 +24,7 @@ Zaawansowana aplikacja budzika zbudowana przy użyciu React Native i Expo, oferu
 
 1. Sklonuj repozytorium:
 ```bash
-git clone [URL_REPOZYTORIUM]
+git clone https://github.com/KonradButtermilk/Projekt-Budzika_w69988.git
 ```
 
 2. Zainstaluj zależności:
