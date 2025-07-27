@@ -4,12 +4,12 @@ Zaawansowana aplikacja budzika zbudowana przy użyciu React Native i Expo, oferu
 
 ## Funkcje
 
-- 🕒 Intuicyjne ustawianie alarmów
-- 🔄 Alarmy cykliczne (wybór dni tygodnia)
-- 🎵 Własne dźwięki alarmów
-- 🧮 Wyzwania matematyczne do wyłączenia alarmu
-- 💤 Funkcja drzemki
-- 📱 Wsparcie dla wielu platform (iOS, Android, Web)
+-  Intuicyjne ustawianie alarmów
+- Alarmy cykliczne (wybór dni tygodnia)
+- Własne dźwięki alarmów
+- Wyzwania matematyczne do wyłączenia alarmu
+- Funkcja drzemki
+- Wsparcie dla wielu platform (iOS, Android, Web)
 
 ## Technologie
 
@@ -50,6 +50,3 @@ npx expo start
 └── utils/                 # Funkcje pomocnicze
 ```
 
-## Licencja
-
-Ten projekt jest dostępny na licencji MIT. Zobacz plik `LICENSE` po szczegóły.
